@@ -10,7 +10,7 @@ public class Employee {
 		System.out.println("sub");
 	}
 
-	private void div() {
-		System.out.println("div");
+	private void frac() {
+		System.out.println("frac");
 	}
 }
