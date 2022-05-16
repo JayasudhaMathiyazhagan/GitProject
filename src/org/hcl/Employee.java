@@ -10,7 +10,7 @@ public class Employee {
 		System.out.println("sub");
 	}
 
-	private void mul() {
-		System.out.println("mul");
+	private void div() {
+		System.out.println("div");
 	}
 }
